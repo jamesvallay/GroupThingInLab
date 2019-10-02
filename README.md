@@ -1,2 +1,3 @@
 # GroupThingInLab
-A thing we have to do in pairs
+I didn't even write anything in my original readme whoops!
+lmao
